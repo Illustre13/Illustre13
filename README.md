@@ -20,33 +20,66 @@
   <img src="https://komarev.com/ghpvc/?username=Illustre13&style=flat-square&color=blue" alt=""/>
   <br>
   <p>
-  <span style="text-decoration: bold">Hi there 👋,</span> <br>I'm Called Bertin NDAHAYO SINGIZWA, Welcome to my Github Page
+  <span style="text-decoration: bold">Hi there 👋,</span> <br>I'm Called 🅱🅴🆁🆃🅸🅽   🅽🅳🅰🅷🅰🆈🅾   🆂🅸🅽🅶🅸🆉🆆🅰 👨🏽‍💻, <br> Welcome to my Github Page
     </p>
 </div>
 </div>
 <hr>
+<br>
+<h3>💻 Programming Languages:</h3> <br>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring MVC" alt="Spring MVC" width="60" height="60"/>&nbsp;
+</div>
+<br>
+<h3>🧰 Tools and Softwares: </h3><br>
+<div style="display: grid; grid-template-columns: auto auto auto auto;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle DB" alt="Oracle DB" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="IBM SPSS" alt="IBM SPSS" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="60" height="60"/>&nbsp;
+  <br>
+  <a href="https://www.netlify.com" target="_blank">
+  <img src="https://img.shields.io/badge/%20Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
+</a>
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank">
+  <img src="https://img.shields.io/badge/%20Microsoft%20Office-%23D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office Badge"/>
+</a>
 
-### :hammer_and_wrench: Languages and Tools :
+<a href="https://railway.app" target="_blank">
+  <img src="https://img.shields.io/badge/%20Railway-%2368D391?style=for-the-badge&logo=railway&logoColor=white" alt="Railway Badge"/>
+</a>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<a href="https://render.com" target="_blank">
+  <img src="https://img.shields.io/badge/%20Render-%235D88CC?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge"/>
+</a>
+
+<a href="https://www.packettracerdownload.com" target="_blank">
+  <img src="https://img.shields.io/badge/%20Packet%20Tracer-%23FF6F00?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer Badge"/>
+</a>
 </div>
 <hr>
-### :fire: My Stats :
+<h3> :fire: My Github Stats :</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Illustre13&theme=dark&background=000000)](https://git.io/streak-stats)
 
