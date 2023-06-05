@@ -82,6 +82,10 @@
 <h3> :fire: My Github Stats :</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Illustre13&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Illustre13>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<pin>/?username=<Illustre13>&theme=<THEME_NAME>" />
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illustre13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
